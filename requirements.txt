@@ -1,0 +1,15 @@
+chardet
+click
+Cython
+
+decorator
+nbformat
+numpy
+pandas
+pandas-datareader
+plotly
+python-dateutil
+pytz
+requests
+urllib3
+Werkzeug
